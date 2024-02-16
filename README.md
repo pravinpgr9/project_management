@@ -40,7 +40,7 @@ This is a Laravel application that serves as a sample tool to manage and control
 
 0. Home Screen for the Application 
 
-![image](https://github.com/pravinpgr9/project_management/assets/15365979/dfe0bbe7-4ab2-43ae-ad01-3cf9b17d452a)
+![image](https://github.com/pravinpgr9/project_management/assets/15365979/59f10f69-7382-4b68-af04-f68ea9ca10ad)
 
 1. Login Screen 
 
