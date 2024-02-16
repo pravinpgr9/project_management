@@ -1,9 +1,27 @@
-## A sample tool that helps to manage/control tasks of projects like
-Jira.
+## A sample tool that helps to manage/control tasks of projects like Jira.
 
 ## About Project
 
 This is a Laravel application that serves as a sample tool to manage and control tasks of projects similar to Jira. It provides various features to help users organize and track tasks efficiently.
+
+## Tech Stack Used:
+Laravel Framework 9.52.16
+MySQL database
+PHP PHP 8.0.28
+Bootstrap bootstrap@5.2.3 for front-end styling
+
+## Project Approach:
+
+I approached the project by first defining the requirements and breaking them down into smaller tasks. I followed the MVC (Model-View-Controller) architecture pattern provided by Laravel to organize the codebase. I liked the built-in features of Laravel, such as Auth Module, Eloquent ORM for database interactions and Blade templating engine for views, which streamlined development. However, I faced some challenges while setting up nested comments so implemented only one level of nesting but we can extend system is flexible & file uploads. Overall, I enjoyed working on the project.
+
+## Estimated Time to Complete:
+
+The estimated time to complete the test was approximately 5 hours/days. However, the actual time may vary depending on the complexity of the requirements and any unforeseen issues encountered during development.
+
+## Pending Tasks:
+Writing more comprehensive test cases to cover edge cases and ensure code reliability.
+Implementing additional features or enhancements based on feedback or further requirements.
+Conducting further testing and quality assurance to ensure the application meets performance and usability standards before deployment.
 
 ## Features
 
