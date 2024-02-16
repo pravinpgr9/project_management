@@ -39,6 +39,8 @@ Conducting further testing and quality assurance to ensure the application meets
 
 7. Automated Tests: The application includes automated tests for all functionality, ensuring reliability and correctness.
 
+8. MobileFirst Approach for responsiveness 
+
 ## Installation
 
 1. Clone the repository: git clone [<repository-url>](https://github.com/pravinpgr9/project_management.git)
