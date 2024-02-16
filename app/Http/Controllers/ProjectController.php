@@ -62,8 +62,26 @@ class ProjectController extends Controller
 
     public function destroy(Project $project)
     {
+        // Delete files associated with comments under tasks of the project
+        $project->tasks()->each(function ($task) {
+            $task->comments()->each(function ($comment) {
+                $comment->files()->delete();
+            });
+        });
+
+        // Delete comments associated with tasks under the project
+        $project->tasks()->each(function ($task) {
+            $task->comments()->delete();
+        });
+
+        // Delete tasks associated with the project
+        $project->tasks()->delete();
+
+        // Delete the project
         $project->delete();
 
         return redirect()->route('projects.index')->with('success', 'Project deleted successfully.');
     }
+
+
 }
