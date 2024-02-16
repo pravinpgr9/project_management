@@ -1,4 +1,5 @@
-Task Management System
+## A sample tool that helps to manage/control tasks of projects like
+Jira.
 
 ## About Project
 
