@@ -38,6 +38,10 @@ This is a Laravel application that serves as a sample tool to manage and control
 
 ## Project ScreenShots
 
+0. Home Screen for the Application 
+
+![image](https://github.com/pravinpgr9/project_management/assets/15365979/dfe0bbe7-4ab2-43ae-ad01-3cf9b17d452a)
+
 1. Login Screen 
 
 ![image](https://github.com/pravinpgr9/project_management/assets/15365979/36320846-2834-40ef-8f6f-346f1667d2d0)
