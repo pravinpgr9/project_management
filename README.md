@@ -4,20 +4,21 @@ Task Management System
 
 This is a Laravel application that serves as a sample tool to manage and control tasks of projects similar to Jira. It provides various features to help users organize and track tasks efficiently.
 
-Features
-User Authentication: Users can sign up and log in to access the system securely.
+## Features
 
-Project Management: Users can create, update, and delete projects.
+1. User Authentication: Users can sign up and log in to access the system securely.
 
-Task Management: Users can add tasks under specific projects, edit them, and delete them as needed. Tasks can be prioritized, assigned deadlines, and categorized with proper statuses (to-do, in-progress, done).
+2. Project Management: Users can create, update, and delete projects.
 
-Comments: Users can add comments to tasks, and nested comments are supported. This allows for threaded discussions and responses to specific comments. Comments can also be deleted.
+3. Task Management: Users can add tasks under specific projects, edit them, and delete them as needed. Tasks can be prioritized, assigned deadlines, and categorized with proper statuses (to-do, in-progress, done).
 
-File Attachments: Users can attach files to both tasks and comments, providing additional context or documentation.
+4. Comments: Users can add comments to tasks, and nested comments are supported. This allows for threaded discussions and responses to specific comments. Comments can also be deleted.
 
-Access Control: Users have access only to their own projects and tasks, ensuring data privacy and security.
+5. File Attachments: Users can attach files to both tasks and comments, providing additional context or documentation.
 
-Automated Tests: The application includes automated tests for all functionality, ensuring reliability and correctness.
+6. Access Control: Users have access only to their own projects and tasks, ensuring data privacy and security.
+
+7. Automated Tests: The application includes automated tests for all functionality, ensuring reliability and correctness.
 
 ## Installation
 
